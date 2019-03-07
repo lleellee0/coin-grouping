@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/lleellee0/coin-grouping#readme",
   "dependencies": {
-    "express": "^4.16.4",
+    "node-restify": "^0.2.1",
     "sequelize": "^4.43.0"
   }
 }
